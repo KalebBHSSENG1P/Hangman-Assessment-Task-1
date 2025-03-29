@@ -19,7 +19,11 @@ A fun, educational and interactive take on the classic Hangman game with adjusta
 4. Win by guessing all the letters of the word before the Hangman completes drawing!
 
 ## Screenshots
+### Main Menu
+![Main Menu](screenshots/mainmenu.png)
 
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
 
 ## Technologies Used
 - **Python** 🐍  
