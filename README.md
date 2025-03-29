@@ -18,12 +18,13 @@ A fun, educational and interactive take on the classic Hangman game with adjusta
 ### Step-by-Step Installation
 1. Click the green "Code" button on GitHub page and click "Download ZIP"
 2. Navigate to "Hangman-Assessment-Task-1-main.zip" and open file
-3. Drag and drop "Hangman-Assessment-Task-1-main" **folder** to anywhere of your choosing
-4. Open **Visual Studio Code** and click "File" in top-left corner
-5. Click "Open Folder" in drop-down menu
-6. Navigate to Folder previously extracted from ZIP file, select it and click "Select Folder"
-7. Navigate to "main.py" file with left-hand sidebar
-8. Click arrow button on top-right corner of screen.
+3. Extract the file from "Hangman-Assessment-Task-1-main" by right-clicking the ZIP folder and clicking "Extract All..."
+4. To combat a bug from Visual Studio Code, rename the extracted file to any name of your choosing
+5. Open **Visual Studio Code** and click "File" in top-left corner
+6. Click "Open Folder" in drop-down menu
+7. Navigate to Folder previously extracted from ZIP file, select it and click "Select Folder"
+8. Navigate to "main.py" file with left-hand sidebar
+9. Click arrow button on top-right corner of screen.
    - If all steps completed correctly and all prerequisites have been installed, the game will open.
 
 ### How to play
