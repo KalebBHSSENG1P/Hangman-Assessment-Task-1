@@ -1,0 +1,1 @@
+These PDF files are not related to the game whatsoever, instead this is to provide the compulsory documentation needed for this assessment task.
