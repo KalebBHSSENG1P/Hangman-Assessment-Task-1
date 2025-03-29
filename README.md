@@ -12,8 +12,8 @@ A fun, educational and interactive take on the classic Hangman game with adjusta
 ### Prerequisites
 - Visual Studio Code (version 1.96.x or higher)
 - Python (version 3.x or higher) and PIP (version 25.x or higher)
-- Pygame library needs to be installed within downloaded workspace (Hangman-Assessment-Task-1 **folder**).
-  -    To install: run the command "pip install pygame" in terminal or cmd from workspace directory. If prompted to create a virtual environment by VS code, click "Yes."
+- Pygame library needs to be installed on local machine or from workspace directory. If installed from workspace directory, a [virtual environment](https://www.youtube.com/watch?v=Y21OR1OPC9A) must be created.
+  -    To install: run the command "pip install pygame" in terminal or command prompt either from user directory or workspace directory.
  
 ### Step-by-Step Installation
 1. Click the green "Code" button on GitHub page and click "Download ZIP"
