@@ -16,7 +16,7 @@ A fun, educational and interactive take on the classic Hangman game with adjusta
   -    To install: run the command "pip install pygame" in terminal or cmd from workspace directory. If prompted to create a virtual environment by VS code, click "Yes."
  
 ### Step-by-Step Installation
-1. Click the drop-down menu in green "Code" button on GitHub page and click "Download ZIP"
+1. Click the green "Code" button on GitHub page and click "Download ZIP"
 2. Navigate to "Hangman-Assessment-Task-1-main.zip" and right-click file
 3. Click "Extract" button in drop-down menu
 4. Open Visual Studio Code and click "File" in top-left corner
