@@ -9,6 +9,22 @@ A fun, educational and interactive take on the classic Hangman game with adjusta
 - Supports fullscreen mode for most immersive gameplay
 
 ## Installation Guide
+### Prerequisites
+- Visual Studio Code (version 1.96.x or higher)
+- Python (version 3.x or higher) and PIP (version 25.x or higher)
+- Pygame library needs to be installed within downloaded workspace (Hangman-Assessment-Task-1 **folder**).
+  -    To install: run the command "pip install pygame" in terminal or cmd from workspace directory. If prompted to create a virtual environment by VS code, click "Yes."
+ 
+### Step-by-Step Installation
+1. Click the drop-down menu in green "Code" button on GitHub page and click "Download ZIP"
+2. Navigate to "Hangman-Assessment-Task-1-main.zip" and right-click file
+3. Click "Extract" button in drop-down menu
+4. Open Visual Studio Code and click "File" in top-left corner
+5. Click "Open Folder" in drop-down menu
+6. Navigate to Folder previously extracted from ZIP file, select it and click "Select Folder"
+7. Navigate to "main.py" file with left-hand sidebar
+8. Click arrow button on top-right corner of screen.
+   - If all steps completed correctly and all prerequisites have been installed, the game will open.
 
 ### How to play
 1. Select difficulty of your choosing by clicking difficulty button on main menu
