@@ -1,2 +1,26 @@
 # Hangman-Assessment-Task-1
-Full Hangman Code and Documentation by Kaleb 11SENG1
+A fun, educational and interactive take on the classic Hangman game with adjustable difficulty levels, built with only Python and Pygame. Coded singlehandedly by Kaleb Vong 11SENG1 with help from trusted online tutorials from [Tech With Tim](https://www.youtube.com/@TechWithTim).
+
+## Features
+- 3 distinct difficulty levels (EASY, MEDIUM, HARD)
+- Over 45 different words each custom to word lists based on difficulty
+- Fully fledged and designed start menu
+- Easily understandable User Interfaces
+- Supports fullscreen mode for most immersive gameplay
+
+## Installation Guide
+
+### How to play
+1. Select difficulty of your choosing by clicking difficulty button on main menu
+2. Click Play button to begin a game
+3. Click letter buttons on the bottom of the screen to start guessing letters of random word
+   - Each correct guess will show the letter on screen
+   - Each incorrect guess will slowly draw the Hangman
+4. Win by guessing all the letters of the word before the Hangman completes drawing!
+
+## Screenshots
+
+
+## Technologies Used
+- **Python** 🐍  
+- **Pygame** 🎮  
