@@ -17,7 +17,7 @@ A fun, educational and interactive take on the classic Hangman game with adjusta
 ### Step-by-Step Installation
 1. Click the green "Code" button on GitHub page and click "Download ZIP"
 2. Navigate to "Hangman-Assessment-Task-1-main.zip" and open it by **Extracting** or third-party software such as [WinRAR](https://www.win-rar.com/download.html?&L=0)
-3. Drag out the **Hangman-Assessment-Task-1-main folder** inside of the ZIP file or the folder created from **extracting** (if extraction method was used) to any suitable location of your choosing
+3. Drag out the **Hangman-Assessment-Task-1-main folder** from inside the ZIP file or from the folder created by **extracting** (if extraction method was used) to any suitable location of your choosing
 4. To combat a bug from Visual Studio Code, **rename this folder** to any name of your choosing
 5. Open **Visual Studio Code** and click "File" in top-left corner
 6. Click "Open Folder" in drop-down menu
